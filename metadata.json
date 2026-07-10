@@ -1,0 +1,6 @@
+{
+  "name": "Licitação PRO",
+  "description": "Gerenciamento completo de licitações públicas, pregões, produtos e propostas",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
